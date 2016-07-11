@@ -1,4 +1,4 @@
-# android-gcm-server-node
+# GCM PUSH
 
 Visit the following url and register your app. Download the **google-services.json** file and note the API Key.
 
@@ -16,9 +16,4 @@ Open terminal and use the command.
 
 > node app
 
-## Complete tutorial
 
-https://www.learn2crack.com/2016/05/gcm-push-notification-server-node-js-mongodb.html
-
-## Youtube Video Demo
-https://www.youtube.com/watch?v=J8XqOQQmvgI
